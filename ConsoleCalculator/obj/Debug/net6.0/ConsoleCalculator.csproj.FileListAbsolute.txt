@@ -1,0 +1,15 @@
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.exe
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.deps.json
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.runtimeconfig.json
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.dll
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.pdb
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfo.cs
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.dll
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\net6.0\refint\ConsoleCalculator.dll
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.pdb
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.genruntimeconfig.cache
+C:\Users\Simon\source\repos\ConsoleCalculator\ConsoleCalculator\obj\Debug\net6.0\ref\ConsoleCalculator.dll
